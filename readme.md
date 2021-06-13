@@ -1,2 +1,2 @@
-Notebooks containing machine learning projects and exercises
+Notebooks containing data analytics projects and exercises
 
